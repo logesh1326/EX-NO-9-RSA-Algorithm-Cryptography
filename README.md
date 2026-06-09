@@ -98,6 +98,7 @@ int main() {
 
 
 ## Output:
+<img width="550" height="222" alt="image" src="https://github.com/user-attachments/assets/b459f066-a7d7-4bf5-b85f-c69bc22cb710" />
 
 
 
